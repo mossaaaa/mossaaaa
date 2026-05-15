@@ -39,10 +39,7 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/-OWASP-000?style=for-the-badge)
 
-### ☁️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?style=for-the-badge&logo=elasticsearch)
+
 ## Goals
 
 - Build impactful SaaS products
